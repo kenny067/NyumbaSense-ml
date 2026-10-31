@@ -105,9 +105,3 @@ Four models are compared:
    `scipy`, `scikit-learn`.
 2. Keep `nyumba.ipynb`, `nyumba_sense_data.csv` and `clean_data.csv` in the same folder.
 3. Open `nyumba.ipynb` in Jupyter and run all cells.
-
-## Next steps
-- Tune Random Forest and KNN (for example with `RandomizedSearchCV`).
-- Try Gradient Boosting.
-- Test on the original listings only.
-- Build a simple tool that takes property details and returns a price estimate.
